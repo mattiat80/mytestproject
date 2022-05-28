@@ -1,0 +1,32 @@
+* {
+	font-family: 'Mitr', sans-serif;
+}
+
+ul li.nav-item {
+	text-align: center;
+	background-color: white;
+	border-bottom: 1px solid;
+
+/*	padding-top: 0px;
+	padding-bottom: 0px;
+	border-style: solid;
+	border-color: gray;
+	border: 1px;	
+	margin-top: -1px;*/
+}
+
+#header-nav {
+	background-color: #999999;
+}
+
+.logo-text {
+	font-size: 180%;
+}
+
+.section-text {
+	background-color: #999999;
+}
+
+.section-title-text {
+	font-size: 130%;
+}
